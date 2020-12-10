@@ -1,6 +1,9 @@
 # DataVisualization
 Udacity Data Analytics Nanodegree Project #5- Data Visualization183,4
 
+## Dataset
+* Utilized the Ford GoBike system data.  Loaded in two separate csv files due to size.
+
 ## This project contains two analysis
 1. Exploratory analysis of the Ford GoBike System data
 2. Explanatory analysis of this same data
