@@ -6,14 +6,14 @@ Udacity Data Analytics Nanodegree Project #5- Data Visualization183,4
 2. Explanatory analysis of this same data
 
 The Ford GoBike System data contains 183,412 trip records.  Each trip record has 16 columns to provided detailed information from each trip
-* trip duration
-* start/end time
-* starting station id, name, lattitude & longitude
-* ending station id, name, lattitude & longitude
-* bike id
-* user type
-* member birth year, gender
-* bike share for all
+* Trip duration
+* Start/end time
+* Starting station id, name, lattitude & longitude
+* Ending station id, name, lattitude & longitude
+* Bike id
+* User type
+* Member birth year, gender
+* Bike share for all
 
 ## Discoveries
 * Majority of users are male
